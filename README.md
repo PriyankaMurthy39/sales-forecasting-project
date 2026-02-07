@@ -53,10 +53,10 @@ better business decisions.
 ## 📷 Screenshots
 
 ### 🔹 Power BI Dashboard Overview
-![Dashboard Overview](dashboard/Sales_dashboard_overview.png)
+![Dashboard Overview](dashboards/Sales_dashboard_overview.png)
 
 ### 🔹 Sales Forecast Analysis
-![Sales Forecast](dashboard/sales_forecast.png)
+![Sales Forecast]()
 
 ### 🔹 Revenue Performance Insights
 ![Revenue Insights](dashboard/revenue_insights.png)
