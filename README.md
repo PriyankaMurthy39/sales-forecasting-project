@@ -59,7 +59,7 @@ better business decisions.
 ![Sales Forecast]()
 
 ### 🔹 Revenue Performance Insights
-![Revenue Insights](dashboard/revenue_insights.png)
+![Revenue Insights](dashboards/revenue_insights.png)
 
 ---
 
