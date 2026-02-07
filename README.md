@@ -56,7 +56,7 @@ better business decisions.
 ![Dashboard Overview](dashboards/Sales_dashboard_overview.png)
 
 ### 🔹 Sales Forecast Analysis
-![Sales Forecast]()
+![Sales Forecast](dashboards/sales_forecast.png)
 
 ### 🔹 Revenue Performance Insights
 ![Revenue Insights](dashboards/revenue_insights.png)
