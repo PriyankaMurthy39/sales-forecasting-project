@@ -52,8 +52,8 @@ better business decisions.
 
 ## 📷 Screenshots
 
-### 🔹 Predictive Sales Intelligence Dashboard
-![Dashboard Overview](dashboard/dashboard_overview.png)
+### 🔹 Power BI Dashboard Overview
+![Dashboard Overview](dashboard/Sales_dashboard_overview.png)
 
 ### 🔹 Sales Forecast Analysis
 ![Sales Forecast](dashboard/sales_forecast.png)
